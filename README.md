@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jaeseok%20Github!&fontSize=100&animation=fadeIn)
-
 <div align="center">  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
   
   ### 🧑‍💻 Tech Stack 🧑‍💻
   #### 🌟 Platform & Languages 🌟
@@ -39,4 +38,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaesukpark77&layout=compact">
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=jaesukpark77&show_icons=true">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 </div>
